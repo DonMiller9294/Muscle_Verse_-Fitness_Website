@@ -39,9 +39,6 @@ To run Muscle Verse Fitness locally on your machine, follow these steps:
 
 I welcome contributions to improve Muscle Verse Fitness. If you have suggestions, bug reports, or would like to contribute new features, please feel free to open an issue or submit a pull request.
 
-## Contact
-
-If you have any questions, suggestions, or just want to say hi, you can reach out to me through [email@example.com](mailto:email@example.com).
 
 Enjoy your fitness journey with Muscle Verse Fitness! Thank you for visiting.
 
